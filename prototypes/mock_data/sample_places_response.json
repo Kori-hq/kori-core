@@ -1,0 +1,22 @@
+{
+  "query": "kkanbujongno",
+  "provider": "mock",
+  "candidates": [
+    {
+      "provider": "mock",
+      "placeId": "mock-kkanbujongno",
+      "name": "Kkanbu BBQ Jongno (Mock Place)",
+      "address": "Jongno-gu, Seoul, South Korea",
+      "lat": 37.5729,
+      "lng": 126.9895
+    },
+    {
+      "provider": "mock",
+      "placeId": "mock-kkanbujongno-2",
+      "name": "Kkanbu Grill (Mock Alternative)",
+      "address": "Jongno-gu, Seoul, South Korea",
+      "lat": 37.5712,
+      "lng": 126.9871
+    }
+  ]
+}
