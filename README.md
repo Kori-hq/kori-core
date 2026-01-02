@@ -40,3 +40,5 @@ This repository contains the core system modules described in the Kori deck:
 ## Status
 Early-stage scaffold. Modules are intentionally separated so we can implement in phases
 while keeping the system auditable and extensible.
+
+http://www.kori.now
